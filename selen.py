@@ -1,3 +1,8 @@
+#copy right .Author:Arif Pathan . one can use this piece of code and concepts but not for commercial purposes .
+#the following script was not created for any malicious purposes so everyone who is using this code is strictly not allowed to hurt people in person in any way.
+# on social basis. the output of this file is not be made public .Its for once self information .
+#any damage caused by this piece of script the (author is not responsible in any case possible) (eg password is not hassed. so type password when you are alone)
+
 from selenium import webdriver
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
